@@ -10,11 +10,11 @@ Want to add your site? We'd love your contribution. Go ahead and follow these st
 
 2. 📝 Add a new `.md` file in `sites` that is `{yourDomain}.md`.
 
-   > For example: `sites/bell.bz.md`.
+ > For example: `sites/bell.bz.md`.
 
 3. 🖋 Fill out the details. Here's the template:
 
-   ```yaml
+ ```yaml
    ---
    title: 'Andy Bell'
    url: 'https://bell.bz'
@@ -36,7 +36,7 @@ Right now, this is a fairly manual process. Feel free to [open an issue](https:/
 
 ## 📄 Contributions
 
-Got an idea for an enhancement? Awesome — don't be shy about [creating an issue](https://github.com/xdesro/personalsit.es/issues/new), or even [opening a pull request](https://github.com/xdesro/personalsit.es/pulls), if you're feeling ambitious. I'd welcome the assist!
+Got an idea for an enhancement? Awesome: don't be shy about [creating an issue](https://github.com/xdesro/personalsit.es/issues/new), or even [opening a pull request](https://github.com/xdesro/personalsit.es/pulls), if you're feeling ambitious. I'd welcome the assist!
 
 ## 🗣 Colophon
 
